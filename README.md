@@ -1,3 +1,6 @@
-communication_visualization_aly_6070
+## R Shiny web-app
 
-1. /boston_house_price_analysis : Code for R Shiny web-app to visualize the trends in boston house prices.
+**Overview**
+
+-Built interactive R Shiny web-app to visualize the trends and distribution of house prices in Boston.\
+-Visualized the different factors affecting the prices.
